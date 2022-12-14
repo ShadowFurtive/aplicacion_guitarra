@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "n-readlines": "^1.0.1"
+  }
+}
