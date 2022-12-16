@@ -70,9 +70,14 @@ Se debe abrir la consola de comando y ejecutar el servidor nginx en nuestro orde
 ```sh
 nginx.exe
 ```
+
 Y luego ejecutar el emulador de Android Studio para poder visualizar bien la página:
 ![cancion_mobile.html](https://lh3.googleusercontent.com/pw/AL9nZEUJpkKLekxTHaJ9rEogiVJqHhKpmyF-xFevm_5FTFpH-uDdJWrdxnaeZvyLlL3GWoRapCCz_5U7TjgMRTUTfUgYTW6zL0QALzrGQm-29BkBWKr37p_JV0m-NI0uKuHQiTt63jrTXMMW7kbU8nzmSIeN=w597-h953-no?authuser=0)
 ![index_mobile.html](https://lh3.googleusercontent.com/pw/AL9nZEVyEeT4I2jBhPNYZIwTnmv2v8_7MMMQK8gPkWZvsWbdCA3zXyOBJK-c-I8AYvypz8oLsYutEqZ641SiTHQgl6j5rBjwAIVKTRYLlVQ_EdLmC8UvH4FHxbzddJye85AFTBHNiChgMlnB2SqBewcWmPgp=w585-h953-no?authuser=0)
+
+
+## IMPORTANTE
+Hay que cambiar la url del index.html para que en cambio de que apunte a localhost apunte a 10.0.2.2 de forma local y que así funcione en el emulador de Android Studio. 
 
 
 
