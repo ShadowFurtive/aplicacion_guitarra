@@ -58,7 +58,7 @@ Para la aplicación web, haremos uso de HTML y JavaScript para crear dos página
 
 En el index.html generamos una página donde habrá una lista de canciones posibles. Además, añadiremos un buscador para poder buscar las canciones pertinentes.
 
-![index.html(https://lh3.googleusercontent.com/pw/AL9nZEX3JXaYAC2KE5rS5tRRvPYxACKiTWHpsMXnOIHSSNPbygsBz6ubgqTt6gxwiP1gO2p1FcDdc1XNb61hF1R0RSIAbE7NAsb9Wzf84sbclpUTdc7d8IRPaZTZcG1vSoe5-GOK8xE36BcNaQkDtt5BFXtM=w480-h845-no?authuser=0 'index.html')
+![index.html](https://lh3.googleusercontent.com/pw/AL9nZEX3JXaYAC2KE5rS5tRRvPYxACKiTWHpsMXnOIHSSNPbygsBz6ubgqTt6gxwiP1gO2p1FcDdc1XNb61hF1R0RSIAbE7NAsb9Wzf84sbclpUTdc7d8IRPaZTZcG1vSoe5-GOK8xE36BcNaQkDtt5BFXtM=w480-h845-no?authuser=0 'index.html')
 
 En cancion.html, generaremos una página nueva dónde se podrá visualizar el pentagrama de la canción, junto con la canción de fondo, con botones para control el pentagrama y su velocidad. 
 La velocidad del pentagrama va a la par de los BMP y los Beats correspondientes por canción.
