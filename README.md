@@ -57,13 +57,13 @@ Incluimos otras funcionalidades para que la aplicación sea más interactiva con
 Para la aplicación web, haremos uso de HTML y JavaScript para crear dos páginas web que se adapten a los datos extraidos a un JSON. 
 
 En el index.html generamos una página donde habrá una lista de canciones posibles. Además, añadiremos un buscador para poder buscar las canciones pertinentes.
-![index.html](https://lh3.googleusercontent.com/pw/AL9nZEX3JXaYAC2KE5rS5tRRvPYxACKiTWHpsMXnOIHSSNPbygsBz6ubgqTt6gxwiP1gO2p1FcDdc1XNb61hF1R0RSIAbE7NAsb9Wzf84sbclpUTdc7d8IRPaZTZcG1vSoe5-GOK8xE36BcNaQkDtt5BFXtM=w480-h845-no?authuser=0 'index.html')
+
+![index.html(https://lh3.googleusercontent.com/pw/AL9nZEX3JXaYAC2KE5rS5tRRvPYxACKiTWHpsMXnOIHSSNPbygsBz6ubgqTt6gxwiP1gO2p1FcDdc1XNb61hF1R0RSIAbE7NAsb9Wzf84sbclpUTdc7d8IRPaZTZcG1vSoe5-GOK8xE36BcNaQkDtt5BFXtM=w480-h845-no?authuser=0 'index.html')
 
 En cancion.html, generaremos una página nueva dónde se podrá visualizar el pentagrama de la canción, junto con la canción de fondo, con botones para control el pentagrama y su velocidad. 
 La velocidad del pentagrama va a la par de los BMP y los Beats correspondientes por canción.
 
-![cancion.html]
-(https://lh3.googleusercontent.com/pw/AL9nZEVWu6Xnc1gYGPCMkx4Afb8XpvkBYDM63LHEmhtGTJcQLx1mU4xbs5wT-SuAzAW7SGqZv0eeIt10LDz3J0u-HUGvAWQ1yR8Uj-5Aw0fLT8MklbUsm0NinDCWpCnrF7XAlKK2f-KWRlyIPLUiJeuzsfPw=w471-h853-no?authuser=0 'cancion.html')
+![cancion.html](https://lh3.googleusercontent.com/pw/AL9nZEVWu6Xnc1gYGPCMkx4Afb8XpvkBYDM63LHEmhtGTJcQLx1mU4xbs5wT-SuAzAW7SGqZv0eeIt10LDz3J0u-HUGvAWQ1yR8Uj-5Aw0fLT8MklbUsm0NinDCWpCnrF7XAlKK2f-KWRlyIPLUiJeuzsfPw=w471-h853-no?authuser=0 'cancion.html')
 
 ### Ejecución de la aplicación
 Se debe abrir la consola de comando y ejecutar el servidor nginx en nuestro ordenador.
