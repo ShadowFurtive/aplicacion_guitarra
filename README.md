@@ -61,7 +61,10 @@ En el index.html generamos una página donde habrá una lista de canciones posib
 
 En cancion.html, generaremos una página nueva dónde se podrá visualizar el pentagrama de la canción, junto con la canción de fondo, con botones para control el pentagrama y su velocidad. 
 La velocidad del pentagrama va a la par de los BMP y los Beats correspondientes por canción.
-![cancion.html](https://lh3.googleusercontent.com/pw/AL9nZEVWu6Xnc1gYGPCMkx4Afb8XpvkBYDM63LHEmhtGTJcQLx1mU4xbs5wT-SuAzAW7SGqZv0eeIt10LDz3J0u-HUGvAWQ1yR8Uj-5Aw0fLT8MklbUsm0NinDCWpCnrF7XAlKK2f-KWRlyIPLUiJeuzsfPw=w471-h853-no?authuser=0 'cancion.html')
+
+![cancion.html]
+(https://lh3.googleusercontent.com/pw/AL9nZEVWu6Xnc1gYGPCMkx4Afb8XpvkBYDM63LHEmhtGTJcQLx1mU4xbs5wT-SuAzAW7SGqZv0eeIt10LDz3J0u-HUGvAWQ1yR8Uj-5Aw0fLT8MklbUsm0NinDCWpCnrF7XAlKK2f-KWRlyIPLUiJeuzsfPw=w471-h853-no?authuser=0 'cancion.html')
+
 ### Ejecución de la aplicación
 Se debe abrir la consola de comando y ejecutar el servidor nginx en nuestro ordenador.
 ```sh
