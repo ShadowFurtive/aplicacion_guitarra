@@ -46,7 +46,7 @@ async function init(){
 
 function iniciarPentagrama() { 
     if(text){
-        audio.play();
+        if(!audio.playing()) audio.play();
         createjs.Ticker.addEventListener("tick", mover_texto);
     }
 };

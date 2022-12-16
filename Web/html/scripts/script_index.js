@@ -1,5 +1,5 @@
-let connection = 'localhost'
-//let connection = '10.0.2.2'
+//let connection = 'localhost'
+let connection = '10.0.2.2'
 function searchFunction() {
     var input, filter, ul, li, a, i, txtValue;
     input = document.getElementById('myInput');
